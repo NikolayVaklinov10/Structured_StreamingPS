@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="999bafc5-99c6-4692-8aab-d302c71d4fc6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/appendMode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aggregateSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/completeMode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/droplocation/xae.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/droplocation/xaf.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/droplocation/xag.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/droplocation/xah.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/droplocation/xai.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/droplocation/xaj.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/droplocation/xak.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/droplocation/xal.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/droplocation/xao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/xac.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/xad.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +26,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/appendMode.py">
+        <entry file="file://$PROJECT_DIR$/aggregateSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+            <state relative-caret-position="268">
+              <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -42,6 +54,8 @@
       <list>
         <option value="$PROJECT_DIR$/structured_network_counting.py" />
         <option value="$PROJECT_DIR$/appendMode.py" />
+        <option value="$PROJECT_DIR$/completeMode.py" />
+        <option value="$PROJECT_DIR$/aggregateSum.py" />
       </list>
     </option>
   </component>
@@ -49,7 +63,7 @@
     <option name="x" value="871" />
     <option name="y" value="23" />
     <option name="width" value="569" />
-    <option name="height" value="834" />
+    <option name="height" value="832" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -107,15 +121,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564305445097</updated>
-      <workItem from="1564305451024" duration="4530000" />
+      <workItem from="1564305451024" duration="8668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4530000" />
+    <option name="totallyTimeSpent" value="8668000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="871" y="23" width="569" height="834" extended-state="0" />
+    <frame x="871" y="23" width="569" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -161,10 +175,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/completeMode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/appendMode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+        <state relative-caret-position="225">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aggregateSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
