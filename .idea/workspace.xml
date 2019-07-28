@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="999bafc5-99c6-4692-8aab-d302c71d4fc6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aggregateSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeMode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlQuery.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/droplocation/xae.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/droplocation/xaf.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/droplocation/xag.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/droplocation/xah.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/droplocation/xai.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/droplocation/xaj.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/droplocation/xak.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/droplocation/xal.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/droplocation/xao.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/xac.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/xad.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +13,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aggregateSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+            <state relative-caret-position="543">
+              <caret line="62" column="41" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="62" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sqlQuery.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -56,13 +56,14 @@
         <option value="$PROJECT_DIR$/appendMode.py" />
         <option value="$PROJECT_DIR$/completeMode.py" />
         <option value="$PROJECT_DIR$/aggregateSum.py" />
+        <option value="$PROJECT_DIR$/sqlQuery.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="871" />
+    <option name="x" value="683" />
     <option name="y" value="23" />
-    <option name="width" value="569" />
+    <option name="width" value="757" />
     <option name="height" value="832" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -121,15 +122,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564305445097</updated>
-      <workItem from="1564305451024" duration="8668000" />
+      <workItem from="1564305451024" duration="10177000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8668000" />
+    <option name="totallyTimeSpent" value="10177000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="871" y="23" width="569" height="832" extended-state="0" />
+    <frame x="683" y="23" width="757" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -197,8 +198,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aggregateSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+        <state relative-caret-position="543">
+          <caret line="62" column="41" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="62" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sqlQuery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
