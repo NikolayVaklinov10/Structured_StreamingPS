@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="999bafc5-99c6-4692-8aab-d302c71d4fc6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/structured_network_counting.py" beforeDir="false" afterPath="$PROJECT_DIR$/structured_network_counting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appendMode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,12 +14,12 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/structured_network_counting.py">
+        <entry file="file://$PROJECT_DIR$/appendMode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="605">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="540">
+              <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -40,12 +41,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/structured_network_counting.py" />
+        <option value="$PROJECT_DIR$/appendMode.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="871" />
     <option name="y" value="23" />
-    <option name="width" value="764" />
+    <option name="width" value="569" />
     <option name="height" value="834" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -104,19 +107,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564305445097</updated>
-      <workItem from="1564305451024" duration="2537000" />
+      <workItem from="1564305451024" duration="4530000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2537000" />
+    <option name="totallyTimeSpent" value="4530000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="764" height="834" extended-state="0" />
+    <frame x="871" y="23" width="569" height="834" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24972618" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24857685" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -150,10 +153,20 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/structured_network_counting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="645">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appendMode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
