@@ -54,7 +54,7 @@ def connect_to_twitter(kafkaProducer, tracks):
 if __name__ == "__main__":
 
     if len(sys.argv) < 5:
-        print("Usage: python m03_demo02_kafkaHashtagProducer.py <host> <port> <topic_name> <tracks>",
+        print("Usage: python kafkaHashtagProducer.py <host> <port> <topic_name> <tracks>",
               file=sys.stderr)
         exit(-1)
 
